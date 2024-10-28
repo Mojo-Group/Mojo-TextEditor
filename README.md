@@ -16,11 +16,11 @@ This is a simple console application developed in C# that allows users to create
 
 ## Requirements
 
-- .NET Core or .NET Framework installed on your machine.
+- .NET Core or .NET Framework installed on your PC.
 - A text editor or IDE (e.g., Visual Studio, Visual Studio Code) for editing the code.
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mojo-Group/Mojo-Group.git
+   git clone https://github.com/Mojo-Group/Mojo-TextEditor.git
